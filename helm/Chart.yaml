@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-wakala-investment-account
+description: "BIAN Service Domain: Wakala Investment Account (Fulfill pattern, Deposits and Investment Accounts)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - fulfill
+annotations:
+  isb/business-area: "Deposits and Investment Accounts"
+  isb/business-domain: "Islamic Deposits"
+  isb/asset-type: "Wakala Investment Account"
+  isb/control-record: "Wakala Investment Account Fulfillment Arrangement"
